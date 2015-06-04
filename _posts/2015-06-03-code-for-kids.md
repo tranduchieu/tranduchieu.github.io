@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Code for Kids
-published: true
+published: false
 ---
 
-
-# Code for Kids
 Hãy code để cho những đứa trẻ cũng hiểu!
 
 ## README.md
