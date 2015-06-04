@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code for Kids
-published: false
+published: true
 ---
 
 > Hãy code để cho những đứa trẻ cũng hiểu!
