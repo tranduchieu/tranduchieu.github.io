@@ -6,5 +6,5 @@ _site
 Gemfile
 Gemfile.lock
 node_modules
-package.json
-_drafts
+#package.json
+#_drafts
