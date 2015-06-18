@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/tranduchieu/tranduchieu.github.io",
   "dependencies": {
-    "bluebird": "^2.9.27"
+    "bluebird": "^2.9.27",
+    "express": "^4.12.4",
+    "pg": "^4.4.0"
   }
 }
