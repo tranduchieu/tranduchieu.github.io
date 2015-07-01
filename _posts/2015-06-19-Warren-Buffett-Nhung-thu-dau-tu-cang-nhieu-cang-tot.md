@@ -1,8 +1,9 @@
 ---
 layout: post
 #title: Warren Buffett: Những thứ đầu tư càng nhiều càng tốt
-title: Warren Buffett: Những thứ đầu tư
+title: "Warren Buffett: Những thứ đầu tư"
 published: true
+permalink: /en/What-Version-To-Choose.html
 ---
 
 Warren Buffett là một trong những nhà đầu tư tài ba nhất mọi thời đại. Ông cũng nằm trong danh sách những người giàu nhất thế giới với tài sản lên đến 72 tỷ USD. Những lời khuyên của Buffett đã trở thành bài học quý giá đối với rất nhiều người trên thế giới.
