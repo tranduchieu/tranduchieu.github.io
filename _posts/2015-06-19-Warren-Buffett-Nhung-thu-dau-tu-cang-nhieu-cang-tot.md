@@ -1,7 +1,7 @@
 ---
 layout: post
 #title: Warren Buffett: Những thứ đầu tư càng nhiều càng tốt
-title: Warren Buffett
+title: Warren Buffett: Những thứ đầu tư
 published: true
 ---
 
